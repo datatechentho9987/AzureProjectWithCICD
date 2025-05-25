@@ -38,8 +38,6 @@ This PoC mirrors how enterprise-grade data systems are developed and deployed �
 
 ## 🏗️ Architecture Overview
 
-![Architecture Diagram](Resources/architecture.png)
-
 > This architecture follows a robust CI-based pipeline built for data engineering projects in enterprise environments.
 
 ### Data Flow Summary:
